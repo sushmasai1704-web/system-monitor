@@ -33,7 +33,7 @@ Tracks CPU, memory, and disk usage live with a clean dark-theme dashboard.
 ## ⚙️ Installation & Setup
 ```bash
 # Clone the repo
-git clone https://github.com/sushmasai1704-web/linux_system_monitor.git
+git clone https://github.com/sushmasai1704-web/system-monitor.git
 cd linux_system_monitor
 
 # Install dependencies
